@@ -1,0 +1,18 @@
+{
+  "lego_creations": [
+    {
+      "name": "Austin",
+      "creation": "Pirate Ship",
+      "color": "Black",
+      "shape": "Boat-ish",
+      "id": 1
+    },
+    {
+      "name": "sadie",
+      "creation": "cat",
+      "color": "Red",
+      "shape": "animal",
+      "id": 2
+    }
+  ]
+}
